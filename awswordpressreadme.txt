@@ -1,3 +1,4 @@
+![Alt text](/host_worldpress.pdf)
 
 # Hosting a WordPress Website on AWS
 
