@@ -1,4 +1,7 @@
+![Alt text](/host_worldpress.pdf)
+
 # Host a Static Website on AWS
+
 
 This repository provides all the resources and scripts required to deploy a static HTML web application on AWS. The project leverages AWS services like EC2, VPC, Route 53, Auto Scaling, Application Load Balancer, and more to ensure high availability, fault tolerance, and scalability for the website.
 
